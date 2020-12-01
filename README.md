@@ -1,3 +1,2 @@
 # LearningDSwithSmallSteps
 
-$\pi$
