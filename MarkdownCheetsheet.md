@@ -47,5 +47,9 @@ __still bold text__
 > in the future than in the past.
    
 
- \*literal asterisks\*
+ # LETS HAVE SOME FUN WITH EMOJIS
+ 
+ GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
 
