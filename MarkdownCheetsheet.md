@@ -32,4 +32,4 @@ $\theta$	\theta
 
 # Mathematic Formulas
 
-
+$\cos$
