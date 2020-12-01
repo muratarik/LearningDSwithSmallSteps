@@ -47,5 +47,5 @@ __still bold text__
 > in the future than in the past.
    
 
-   
+ \*literal asterisks\*
 
