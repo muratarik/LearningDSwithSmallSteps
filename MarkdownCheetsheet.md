@@ -49,7 +49,21 @@ __still bold text__
 
  # LETS HAVE SOME FUN WITH EMOJIS
  
- GitHub supports emoji!
-:+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat:
+ GitHub supports emoji and more you find [here](www.emoji-cheat-sheet.com)
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
+# THIS IS A TASK LIST
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+
+# TABLES
+
+I can make tables for more organization
+
+First Header | Second Header 
+------------ | ------------- 
+Content cell 1 | Content cell 2 
+Content column 1 | Content column 2
