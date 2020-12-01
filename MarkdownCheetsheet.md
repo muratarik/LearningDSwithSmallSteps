@@ -1,38 +1,14 @@
 
+The reference webpage:https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+# Markdown Syntax
+
+## Hopefully this will be helpful cheetsheet
+
+### These are all headers <h3>
+
+#### This is another header <h4>
 
 
-## Greek Letters
 
-
-
-$\alpha$	\alpha
-
-$A$	A
-
-$\beta$	\beta
-
-$B$	B
-
-$\gamma$	\gammma
-
-$\Gamma$	\Gamma
-
-$\pi$	\pi
-
-$\Pi$	\Pi
-
-$\phi$	\phi
-
-$\Phi$	\Phi
-
-$\varphi$	\varphi
-
-$\theta$	\theta
-
-
-# Mathematic Formulas
-
-$\cos$
-
-\alpha
 
