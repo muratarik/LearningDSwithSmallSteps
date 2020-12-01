@@ -33,3 +33,6 @@ $\theta$	\theta
 # Mathematic Formulas
 
 $\cos$
+
+\alpha
+
