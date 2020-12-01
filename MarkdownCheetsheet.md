@@ -1,7 +1,7 @@
 
-The reference webpage:https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+The reference webpage link :(https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-# Markdown Syntax
+# MARKDOWN SYNTAX
 
 ## Hopefully this will be helpful cheetsheet
 
@@ -11,4 +11,41 @@ The reference webpage:https://guides.github.com/pdfs/markdown-cheatsheet-online.
 
 
 
+## *EMPHASIS*
+
+*Italic Text* 
+
+_This will also be italic_
+
+**bold text** 
+
+__still bold text__
+
+*combine **bold** and italic text*
+
+
+
+## We can make lists
+
+* apple
+  * small apple
+  * big apple
+* orange
+
+
+# I can me ordered list
+
+1. one bottle
+2. two bottle
+   * green bottle
+   * red bottle
+   
+   
+# A BLOCKQUOTE FROM GRACE HOPPER:
+
+> I’ve always been more interested 
+> in the future than in the past.
+   
+
+   
 
